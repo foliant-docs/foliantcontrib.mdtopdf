@@ -14,7 +14,7 @@ MdToPdf backend for Foliant operates the `pdf` target.
 First install md-to-pdf on your machine:
 
 ```bash
-$ node install -g md-to-pdf
+$ npm install -g md-to-pdf
 ```
 
 Then install the backend:
